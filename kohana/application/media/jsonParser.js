@@ -1,16 +1,6 @@
 var consoleText = document.getElementById("console");
 var consoleInput = document.getElementById("consoleInput");
 var symbol = "$: ";
-var newDataArray = new Array();
-
-
-function getDataArray(bruteObject){
-	for(var objectProperty in bruteObject){
-		if( objectProperty === "date_noi"){
-			newDataArray.push(bruteObject[objectProperty]);
-		}	
-	}
-}
 
 function getDataTree(bruteObject, level){
 	
