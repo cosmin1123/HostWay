@@ -13,6 +13,9 @@
 
 </input>
 
+<div style="display:none" id = "queryData"> <? echo $queryData ?> 
+</div>
+
 </body>
 </html>
 
