@@ -165,6 +165,5 @@ var commands = {
 	}
 }
 </script>
-  
 </body>
 </html>
