@@ -93,7 +93,7 @@ margin-bottom:2px;
 	<div class="Three-Dee"> The Potato Web Console  </div>
 	<div class="container">
 		<div class="console">
-			<div class="line white">Welcome to cssConsole! Type help for command list.</div>
+			<div class="line white">Welcome to the Potato Web Console! Type help for command list.</div>
 		</div>
 		<div class="bottom">
 			<div class="label" style = "color:black">></div>
